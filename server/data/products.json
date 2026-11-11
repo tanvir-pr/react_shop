@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "চা পাতা", "price": 120, "category": "tea", "stock": 25 },
+  { "id": 2, "name": "মধু", "price": 350, "category": "grocery", "stock": 10 },
+  { "id": 3, "name": "বিস্কুট", "price": 80, "category": "snack", "stock": 40 },
+  { "id": 4, "name": "দুধ", "price": 90, "category": "grocery", "stock": 30 },
+  { "id": 5, "name": "কফি", "price": 280, "category": "tea", "stock": 15 },
+  { "id": 6, "name": "চিপস", "price": 40, "category": "snack", "stock": 50 },
+  { "id": 7, "name": "ডিম (১২টা)", "price": 160, "category": "grocery", "stock": 20 },
+  { "id": 8, "name": "সবুজ চা", "price": 200, "category": "tea", "stock": 12 },
+  { "id": 9, "name": "চকলেট", "price": 150, "category": "snack", "stock": 0 }
+]
